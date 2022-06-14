@@ -1,10 +1,10 @@
 # 💫About Me :
-Hi 👋, I'm George,
+Hi 👋, I'm George,<br>
 A passionate Software Engineer from Greece
 
-💼Big Data Analytics Engineer in UNIC
-👯Looking to collaborate in Machine Learning or Data Analysis Projects
-📖Currently Learning about Hadoop and Spark
+💼Big Data Analytics Engineer in UNIC<br>
+👯Looking to collaborate in Machine Learning or Data Analysis Projects<br>
+📖Currently Learning about Hadoop and Spark<br>
 
 
 ## 🌐Socials
@@ -22,28 +22,24 @@ A passionate Software Engineer from Greece
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=gsak3l&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gsak3l&theme=buefy&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=gsak3l&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gsak3l&theme=buefy&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gsak3l&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!--
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gsak3l&theme=flat&no-frame=true&no-bg=false&margin-w=4)
--->
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="256px"/>
+<img src="https://random-memer.herokuapp.com/" width="256"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gsak3l&icon=8&color=0)](https://visitcount.itsvg.in)
