@@ -33,7 +33,6 @@ A passionate Software Engineer from Greece
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊GitHub Stats :
-# 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=gsak3l&theme=buefy&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gsak3l&theme=buefy&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gsak3l&theme=buefy&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
