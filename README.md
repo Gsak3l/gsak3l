@@ -2,7 +2,7 @@
 Hi 👋, I'm George,<br>
 A passionate Software Engineer from Greece
 
-💼Big Data Analytics Engineer in UNIC<br>
+💼Data Engineer at Margera<br>
 👯Looking to collaborate in Machine Learning or Data Analysis Projects<br>
 📖Currently Learning about Hadoop and Spark<br>
 
